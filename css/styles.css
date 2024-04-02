@@ -1,0 +1,14 @@
+.grade-output-success {
+	color: darkgreen;
+}
+
+.grade-output-warning {
+	color: #e8c100;
+	font-size: 35px;
+}
+
+#contact-form {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+}
